@@ -18,7 +18,8 @@ library used is:
 
 
 Well Structured Code Screenshot of IDE( VS code):
-![Uploading image.png…]()
+![image](https://github.com/Shailendra-08/pdf_cv-generator/assets/120922588/d62df1e2-68fc-470e-96aa-cfc3cc4d4584)
+
 
 
 
